@@ -1,0 +1,30 @@
+[Click]
+pos = 141, 91
+size = 45,58
+talk = "House_Shelf"
+
+[Click]
+pos = 163,136
+size = 87,83
+talk = "House_Table"
+
+[Click]
+pos = 56,93
+size = 77,55
+talk = "House_Outside"
+
+
+[Click]
+pos = 243,123
+size = 77,58
+talk = "House_Kitchen"
+
+
+[Click]
+pos = 243,123
+size = 77,58
+talk = "House_Cooking"
+barn_eggs = 1
+barn_milk = 1
+field_tractor = 1
+horse_feed = 0

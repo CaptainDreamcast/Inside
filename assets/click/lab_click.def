@@ -1,0 +1,10 @@
+[Click]
+pos = 0,0
+size = 320,240
+talk = "Investigate_lab"
+
+[Click]
+pos = 142,81
+size = 30,48
+talk = "Investigate_corpse"
+

@@ -1,0 +1,11 @@
+[Click]
+pos = 44,51
+size = 236,153
+talk = "Shed_Opening"
+
+[Click]
+pos = 44,51
+size = 236,153
+talk = "Finale"
+field_tractor = 1
+key = 1

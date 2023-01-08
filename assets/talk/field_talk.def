@@ -1,0 +1,13 @@
+[field_talk]
+Mario: "Heyheyhey"
+Yuria: "My issue is here"
+Giovanni: "Mamma mia"
+globalvar: test1
+item: dummy
+Giovanni: Al Cazone
+item:none
+question: 3
+text: What is it
+field_talk: Sure
+field_talk: Never
+field_end: No

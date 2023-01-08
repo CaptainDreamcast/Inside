@@ -1,0 +1,27 @@
+[Talk]
+name = "Lion"
+talk = "Lion_Lion"
+
+[Click]
+name = "Giovanni"
+talk = "Lion_Giovanni"
+
+[Click]
+name = "Carrots"
+talk = "Lion_Carrots"
+removed = key
+
+[Click]
+name = "Heart-radish"
+talk = "Lion_Heartradish"
+
+[Click]
+name = "Alien costume"
+talk = "Lion_Alien"
+active = grainquest
+removed = alien
+
+[Click]
+name = "Horse feed"
+talk = "Lion_Horsefeed"
+active = horse_feed

@@ -1,0 +1,16 @@
+[Talk]
+name = "Scarecrow"
+talk = "Scarecrow_Scarecrow"
+
+[Click]
+name = "Giovanni"
+talk = "Scarecrow_Giovanni"
+
+[Click]
+name = "Grain"
+talk = "Scarecrow_Grain"
+removed = grain
+
+[Click]
+name = "Heart-radish"
+talk = "Scarecrow_Heartradish"

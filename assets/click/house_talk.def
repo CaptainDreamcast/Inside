@@ -1,0 +1,29 @@
+[Talk]
+name = "Giovanni"
+talk = "Giovanni_Giovanni"
+
+[Click]
+name = "Toto"
+talk = "Giovanni_Toto"
+
+[Click]
+name = "Boss"
+talk = "Giovanni_Boss"
+
+[Click]
+name = "Carrots"
+talk = "Giovanni_Carrots"
+
+[Click]
+name = "Grain"
+talk = "Giovanni_Grain"
+
+[Click]
+name = "Heart-radish"
+talk = "Giovanni_Heartradish"
+
+[Click]
+name = "Horse feed"
+talk = "Giovanni_Horsefeed"
+active = carrotquest
+removed = horse_feed

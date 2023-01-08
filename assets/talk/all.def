@@ -1,0 +1,602 @@
+
+[house_opening]
+	music: boss
+	Boss: THE GREAT DETECTIVE CLUB HAS ARRIVED!
+	Toto: C- could you please keep your voice at room level?
+	Boss: Sorry Toto! I'm just too excited! 
+	Boss: Now that we're at your grandfather's farm we will uncover the truth behind all the recent disappearances around here and etch our names into... detective heaven!
+	Toto: Doro, you've been way too into this detective stuff ever since you read that detective manga.
+	soundeffect: 1
+	Boss: Please call me "The Boss" while we're working on a case, Toto. I need to keep my identity secret from my enemies.
+	Toto: Case? Enemies? Do I need a secret identity too?
+	Boss: Toto is both your name and your nickname, nobody will ever expect that!
+	Toto: ... Uhhhh.
+	music: giovanni
+	Giovanni: Scusi?
+	Boss: A MAFIA BOSS?! We're starting red hot in this case! Explain yourself! What makes you go against the great detective club and love and justice and all that is good?!
+	Toto: He wouldn't know abo-
+	Giovanni: THE GREAT DETECTIVE CLUB IN MY CASA?!
+	Toto: ... eh?
+	Giovanni: You will sleep-e with the fishes tonight bambinis.
+	Boss: ... eh? eh?
+	Giovanni: The guest-e room has an aquarium. Beautiful sight.
+	Toto: That's just my grandpa, Doro! You've met him before!
+	Toto: (Maybe I need to clear something up here, my name is Toto, and this is my childhood friend Doro (currently in love with detective manga).)
+	Toto: (We came to my grandpa's farm to work on our summer break homework, "Truths and facts behind modern farming". But Doro is being a bit theatric with it.)
+	Giovanni: Bambina, calling all Italians mafiosi just feeds negative stereotypicos.
+	Giovanni: It's like saying all we do is eat spaghetti all the time.
+	Giovanni: ... I mean we will be eating spaghetti later today but you can't-e just assume that.
+	Boss: I'm sorry Mr. Giovanni, and thank you very much for letting us investigate on your land!
+	Toto: Translation: "Thanks for helping us with our summer homework" 
+	Giovanni: No problemino, bambino, I owe you for always helping out during summer break. Your tractor *kiss hand* molto bene!
+	Toto: Dor- Boss, do you have the list of things we need for our project?
+	Boss: Of course! In order to get to the heart of this case, we will need, uhhh...
+	Toto: ... grain, carrots and heart-radish.
+	soundeffect: 2
+	Boss: As expected of my right-hand man, this is why we call you "The brain".
+	Toto: ...
+	Giovanni: You should be able to find everything at this farm except heart-radish, just look around with the look button and move to different locations with the move button. Confirm with A, return to previous menus with S.
+	Toto: M- move button? Grandpa, are you alright?
+	Boss: And we can talk to people with the talk button, right? 
+	Giovanni: Exactamente, bambina.
+	Toto: Wh- what?
+	Boss: GREAT DETECTIVE CLUB, MOVE OUT!
+	Giovanni: OFF W- OFF YOU GO!
+	Toto: R- room voice please!
+	
+		
+[Giovanni]
+[Giovanni_Giovanni]
+		Boss: "So you're Toto's grandfather, huh?"
+		Toto: "A- are you doubting it?"
+		Giovanni: "I guess I am his grandfather then."
+		Toto: "A- are you just going with the flow?"
+[Giovanni_Toto]
+		Boss: You didn't strike me as a farm boy, Toto.
+		Toto: Well, I've been helping out here every summer break since I was little.
+		Giovanni: Here is-a a picture of the bambino riding a tractor at two years old.
+		Boss: ... (Huh?)
+		
+	[Giovanni_Boss]
+		Giovanni: Bambina, what happened to your eye?
+		Boss: I ate it.
+		Toto: Nothing happened with it, she just thinks it looks cool.
+		Boss: ...
+		Boss: It does look cool though.
+		
+	[Giovanni_Carrots]
+		Giovanni: You should be able to find some at the barn. One of my boys should be feeding them to the horses.
+		Giovanni: Should he not do a good job, I will give-e him the special shoes.
+		Boss: Cement shoes? Isn't that a bit anachronistic.
+		Giovanni: No, I mean-e the comforting shoes we keep for comfortability emergencies.
+		Boss: Hmm, I see, my mistake.
+		Toto: (Is it me or does she look slightly disappointed?)
+		
+	[Giovanni_Grain]
+		Giovanni: There is a wheat field out there somewhere. Just use the move button to move there.
+		Toto: What is this button business about? Is this a smartphone thing?
+		Boss: *Presses the "Thank you Giovanni" button*
+		Toto: ???
+	[Giovanni_Heartradish]
+		Giovanni: There is no heart-radish on this farm. Could it be you mean horse-radish?
+		Boss: There should be heart-radish here, it's one of the requirements to beat this game. So it has to be around somewhere.
+		Toto: P- please don't break the fourth wall like this...
+		Giovanni: Bambina, Ludum Dare games are notorious for often being unfinished, perhaps the developerino forgot to put it in!
+		Toto: N- not you too-
+		Narrator: There was, in fact, heart-radish somewhere on the farm. Satisfied, you doubters?
+		Giovanni: Yup!
+		Boss: Yup!
+		Toto: (Ehhh?)
+	[Giovanni_Horsefeed]
+		Giovanni: To make specialito horse feed, you need chicken eggs, milk and the special horse cake mixture. The first two should be easy to getino, but I don't remember where the mixture is.
+		Boss: We'll find it. *Stares intently at Toto*
+		Toto: I- I'll find it.
+		Giovanna: Once you have all the ingredients, cook it in the kitchen over there. Look at it.
+		Toto: I- I'll look.
+	
+	[House_Table]
+		Boss: So this is what they have in Italy, huh?
+		Toto: We are known to have... tables.
+		Boss: And those things next to them? You sit on them, right?
+		Toto: The chairs? What kind of culture shock is this?
+	
+	[House_Outside]
+		Boss: Toto, let's go outside!
+		Toto: We will, but first let's make sure we have nothing else to do in here. Look at Grandpa, he's trying to hold back tears of loneliness!
+		Giovanni: ... Be strong, Giovanni, be strong...
+	
+	[House_Shelf]
+		Boss: Wow, what a collection of neat niche books!
+		Boss: "How to make sure the body really sinks", "Organ scooping for amateurs" "Loneliness behind the minigun: The Al Capone Story". Your grandpa really goes with a theme, huh?
+		Giovanni: The organ scooping one is too amateurish to be of any practical use, I wouldn't recommend that one.
+		Boss: Good to know!
+		Toto: (G- Good to know?!)
+	
+	[House_Cooking]
+		Boss: The kitchen! Leave making the cake to me!
+		Toto: Wow, Boss, I didn't know you could coo-
+		Toto: ...
+		Toto: How did you manage to burn down half of the kitchen in two and a half sentences.
+		Boss: *in tears* I don't know.
+		soundeffect: 5
+		Giovanni: Mamma mia! *falls over in shock*
+		Toto: Ok, let me do this like they do it on the TV shows:
+		item: cake
+		Toto: *fetches a finished cake from inside the oven*
+		Toto: I prepared this yesterday.
+		Boss: Amazing! Just like on TV! You're a wizard!
+		item: none
+		Toto: I have hidden depths.
+		globalvar: horse_feed
+
+[House_Kitchen]
+		Boss: The kitchen. An investigation's core. 
+		Toto: How so?
+		Boss: If we need water to waterboard someone, we could get it here. Or food to bribe them. Or bribe... ourselves.
+		Toto: (She's looking out of the window profoundy, but her grumbling stomach tells another story.)
+
+[Scarecrow]
+	[Field_opening]
+		Boss: The wheat clue is as good as ours~
+		Toto: I- I'll get i- WHA! THIS SCARECROW JUST MOVED!
+		music: scarecrow
+		Scarecrow: Yo yo yo yo, what's with you guys just stepping on a man's field of hope and romance?
+		Boss: ...
+		Boss: Scarecrows are made of hay, I'll burn it.
+		Scarecrow: OUCH! Put away the lighter, I am flesh and bones and SOUL just as you fellas.
+		Scarecrow: I'm here to keep out bad vibes from the field, you understand?
+		soundeffect: 6
+		Scarecrow: Refining my manhood...
+		Boss: Isn't that something you do inside with the blinds shut?
+		Toto: ... But why are you dressed like a scarecrow?
+		Scarecrow: ... I don't want to talk about it, it's a personal issue of the soul, brother.
+		Boss: We're the great detective club and we request entry to this field!
+		Toto: ... Calling us something like that won't impre-
+		Scarecrow: THE GREAT DETECTIVE CLUB?! ON MY FIELD? MY GOD!
+		Toto: ...
+		Scarecrow: But I still can't let you through. A man has his pride. And mine is being a scarecrow. You understand my manly soul, right?
+		Boss: I GET IT, I GET IT. COME HERE, SCARECROW MAN! I respect your dedication.
+		Boss: (Toto, we need to find a way around this guy.)
+		Toto: (Ehhh, can't we just go to another field?)
+		Boss: That would be admitting defeat. And you know the great detective club's rule #32. We know the word for death but not defeat!
+		Toto: But if we don't know the word for defeat why is it part of the saying?
+		Boss: ...
+		Toto: (She's slowly walking away, that broke something in her.)
+
+	[Field]
+		[Field_Sky]
+			Toto: (The sky, it's pretty hot outside. Which I guess is expected for summer vacation)
+			Toto: (If it was cold, you would think "Is this really summer vacation, it should be winter vacation", but then winter vacation would be winter vacation 2.)
+			Toto: (There would be a riot in the streets.)
+		[Field_Grain]
+			Boss: Urrrgh, so close yet so far...!
+			Toto: *leans over*
+			Scarecrow: HEY! I SAID NO TOUCH! OR- OR I'LL- I'LL SCARE AND CROW YA! THAT'S RIGHT FOLKS!
+			Toto: (Better not try anything with him.)
+		[Field_Tractor]
+			Boss: Urrrgh, so close yet so far...!
+			Toto: *leans over*
+			Scarecrow: HEY! I SAID NO TOUCH! OR- OR I'LL- I'LL SCARE AND CROW YA! THAT'S RIGHT FOLKS!
+			Toto: (Better not try anything with him.)
+
+	[Scarecrow_talk]
+		[Scarecrow_Scarecrow]
+			Boss: Ok, I need to know: WHY are you in a scarecrow costume?
+			Scarecrow: It's not a costume missy, it's a way of life. You wouldn't get it. Your life wasn't hard-boiled enough.
+			Boss: Toto, put on a scarecrow costume, replication will help us understand the criminal's motive.
+			Scarecrow: Criminal?!
+			Toto: I- I'd rather not...
+		[Scarecrow_Giovanni]
+			Scarecrow: Oh, the boss.
+			Boss: Me?
+			Scarecrow: He picked me up hanging in a field and gave me a place to be when I had nowhere else to go with my talents.
+			Toto: (So he was a scarecrow before???)
+			Scarecrow: I owe him an eternal debt and then some. That's what it means... to be a hard-boiled man.
+			Toto: (There's a limit to how profound you can be as a scarecrow cosplayer.)			
+		[Scarecrow_Grain]
+			Scarecrow: Wheat is like man. Swaying in the wind sometimes but deeply rooted. It moves my heart just taking it in.
+			Scarecrow: ... Can you rotate me a little so I can take it in better.
+			Toto: *rotates him*
+			Scarecrow: Thanks man.
+			Scarecrow: There is really only two things that grain must fear. Man and Aliens.
+			Scarecrow: Someone as hard-boiled as me can take care of man, but I worry about the aliens.
+			Scarecrow: If they decide to draw circles on this field, would I be able to stop them?
+			Scarecrow: Sometimes I hang here for days just worrying about that.
+			Boss: (Aliens, huh. Toto, are you thinking what I'm thinking?)
+			Toto: (Huh? Uh... y- yeah!)
+			Narrator: He was, in fact, not thinking what she was thinking.
+			Toto: (HEY!)
+			globalvar: grainquest
+			
+		[Scarecrow_Heartradish]
+			Scarecrow: Never seen any in my life. You see, I lived a hard-boiled life that-
+			Boss: Ok, we got the intel we needed from this part of the interrogation, thanks a lot!
+			Toto: (The boss saved our lives once again...)
+
+	
+	[Field_alien_getting]
+			Boss: Toto, put on the alien costume!
+			Toto: Grrreeetings humano- scarecrowmanoid!
+			Scarecrow: ... So it's come to this.
+			music: none
+			item: gun
+			Scarecrow: *Pulls out gun*
+			Boss: Ah! Toto run! Hide in the field!
+			Scarecrow: Sayonara, E.T. You won't be phoning and circling home any time soon!
+			soundeffect: 7
+			Gun: *bang bang bang*
+			Toto: HOW DID THIS ESCALATE SO QUICKLY?!
+			Boss: MR. HARDBOILED SCARECROW SIR, THAT'S MR. GIOVANNI'S GRANDSON!
+			Scarecrow: *takes a hard-boiled puff of his cigarette*
+			Scarecrow: So the boss and his family are aliens. I always knew it.
+			Boss: (It's no use, he's an idiot!)
+			music: scarecrow
+			item: none
+			Scarecrow: Well, my gun is empty and I can't get down, so you win today, alien.
+			Scarecrow: Make your circles, steal your cows, do your sick alien shenanigans.
+			Scarecrow: But I'll warn you, I've trained my butt, I will break any probe you might have.
+			Toto: IT'S JUST A COSTUME!
+			Scarecrow: Ohhh, it's just a costume, why didn't you say so earlier. That was pretty dangerous of you.
+			Toto: ONLY BECAUSE YOU SHOT AT ME!
+			Scarecrow: Well, water under the bridge.
+			Scarecrow: How about that, you keep our little high noon shootout a secret and I'll let you touch the wheat. Sound like a good deal?
+			Boss: (whispering)
+			Toto: (whispering back)
+			Boss: We accept.
+			Scarecrow: I expected no less from THE great detective club.
+			globalvar: Field_alien_getting
+			
+			
+			
+	[Field_grain_after]
+			item: grain
+			Boss: There we go. Grain. We risked our lives for this.
+			item: none
+			Toto: A- actually it was just m-
+			Boss: But the past is in the past, a true detective must press on. We are not finished yet.
+			globalvar: grain
+			
+	[Field_tractor_after]
+			Boss: Whoaa, a tractor! A tractor! Boys go crazy for that stuff, right?
+			Toto: I- it's your eyes glowing with excitement, not mine!
+			Boss: Can we take a quick trip and mow down this field?
+			Scarecrow: HEY!
+			Toto: No, I don't have the keys with me.
+			Boss: Maybe there's some emergency keys around here, let's take a look...
+			item: feed
+			Boss: "Horse feed cake mix", well this is so eccentric it can only be an investigation clue, I'm keeping that.
+			item: card
+			Boss: Aaaaand... a key... card?
+			item: none
+			Toto: Let me hold onto that.
+			Boss: NO! I'M THE BOSS! I GET TO KEEP THE CLUES!
+			Toto: But you keep losing things.
+			Boss: NO I'M NOT!
+			Toto: You already dropped the key card again!
+			Boss: Nonsen- oh, I did. Oopsie~
+			Boss: I'll be double, no, triple careful now. I will not let a drama like the great loss of my beloved Mr. Hamster happen again...
+			Toto: (She's looking at me as if she's expecting me to follow up, but I think I'll just leave it at that.)
+			globalvar: field_tractor
+
+[Lion_rout]
+	[Barn_opening]
+		Toto: *opens barn*
+		Lion: ...
+		Toto: ...
+		Toto: *closes barn*
+		Boss: What's the matter? Aren't we going in?
+		Toto: ...
+		Toto: I just need a few seconds to mentally come to terms with this.
+		Toto: *takes a deep breath*
+		Toto: *opens barn*
+		Toto: Nope, he's still here.
+		music: lion
+		Lion: Rawr.
+		Boss: AH, A LION! TOTO! TAKE COVER!
+		Boss: DON'T LET IT SEE THE BACK OF YOUR HEAD, IF A LION DOESN'T SEE THE BACK OF YOUR HEAD IT CAN'T ATTACK YOU!
+		Lion: Wait, is that how it works?! I never knew!
+		Toto: It's just a guy in a costume, Boss.
+		Boss: DON'T LET HIM SEE THE BACK OF YOUR HEAD, IF A GUY IN A COSTUME DOESN'T SEE THE BACK OF YOUR HEAD HE CAN'T ATTACK YOU!
+		Toto: ...
+		Toto: A- anyway, moving on. Why are you wearing that lion costume?
+		Lion: I love animals.
+		Toto: Do we need to call the police here?
+		Lion: Not like that, I mean I can protect the animals like this without causing them unnecessary stress!
+		Lion: What could be more relaxing to an animal than the animal king keeping watch! Way more comfortable than a watch dog, I tell you. I'm a genius! Hahahaha!
+		Boss: ...
+		Boss: ... He has a point!
+		Toto: (No! No he really doesn't!)
+		Toto: You're the guy we hired to take over my feeding duties this week, right?
+		Lion: Exactamente, you can call me Lion.
+		Boss: Leon?
+		Lion: Lion!
+		Toto: Okay Leon.
+
+		
+	[Barn]
+		[Barn_Cows]
+			Boss: Look Toto! It's a moo-moo!
+			Toto: (H- how old are you supposed to be again?)
+			
+		[Barn_Taking_milk]
+			Boss: I've seen them do the milking thing in movies, I feel pretty confident I can pull it off.
+			Boss: *grips with the force of a ten ton truck*
+			soundeffect: 3
+			Cow: MoooooooOOOOOOOOOOOOOOOOOOOO-
+			Boss: Huh, there's only red milk coming out of this one, it might be a strawberry cow.
+			Toto: M- maybe leave the milking to me.
+			item: milk
+			Boss: Yay! Got regular milk and strawberry milk!
+			item: none
+			Toto: L- let's put aside the strawberry milk and call a veterinarian real quick.
+			Narrator: No cows were hurt in the making of this game. Do not try this at home. Boycott the strawberry milk industry.
+			globalvar: barn_milk
+
+		[Barn_Horses]
+			Boss: Toto Toto Toto, come pet Mr. Horsestead!
+			Toto: Are you giving them names now?
+			Boss: N- no.
+			Boss: (Don't worry Mr. Horsestead and Mr. Neighington, men can't come between the special bond between a girl and her ponies).
+			Toto: THEY STILL BELONG TO MY FAMILY!
+		[Barn_Chicken]
+			Boss: The chicken came first.
+			Toto: But what did it hatch from then?
+			Boss: From a fish, like ancient humans, right?
+			Toto: ...
+			Toto: I'm not sure you've paid enough attention in biology class to answer the chicken and egg question.
+		[Barn_Taking_egg]
+			Boss: I shall take this egg as tribute.
+			item: eggs
+			Chicken: *going wild*
+			Boss: You should sing my praises that I only take this much. Should you defy me further, I see no other choice but to increase tributes and restore proper order. Consider yourselves warned.
+			Boss: All who defy the chicken empress must learn their lesson.
+			item: none
+			Toto: (... She must never get in a position of power.)
+			globalvar: barn_eggs
+			
+		[Barn_Barn]
+			Boss: There's nothing quite like a barn investigation.
+			Boss: The cows, the chickens, the horses, the lion... 
+			Toto: I don't think that last one is usually part of a barn.
+		
+		
+			[Lion]
+				[Lion_Lion]
+					Lion: I'm just working part-time here. My dream is to be a cosplay youtuber. My genius is wasted here.
+					Toto: (We just looked into his general direction and he started speaking to us.)
+					Boss: (We need to avoid eye contact with that one.)
+					Lion: I CAN STILL HEAR YOU! ROAR!
+					
+				[Lion_Giovanni]
+					Lion: That's the old man running this, farm right? I'm not really good with names.
+					Boss: What's important is that you try, Leon.
+					Lion: ...
+					Lion: Okay, I walked into that one.
+					Toto: (The boss is doing a victory sign at me, she seems to win this high-level exchange of wits.)
+				[Lion_Carrots]
+					Lion: I'M SORRY! I CAN'T LET YOU HAVE CARROTS!
+					Toto: H- how did you know that we need carrots.
+					Lion: You're the great detective club, right?
+					Boss: Yup.
+					Lion: Then it's just common sense that you'd come for these carrots sooner or later.
+					Boss: Yup.
+					Toto: ...
+					Toto: Moving on, why can't we have those carrots?
+					Lion: The balance of life.
+					Toto: ... Am I talking to a markov chain reply bot here?
+					Lion: If I give away a carrot, this carrot will be missing in a horse's diet, the horse will then wither and die. And it will all be my fault. I could not live like this.
+					Toto: (... he says as he silently sobs into his dollar store lion costume)
+					Boss: But if we don't get this carrot, we will fail school, fail to get jobs, become homeless, and starve on the street! Could you live with that?
+					Lion: ...
+					Toto: (He's averting his eyes! He's ok with it! This guy is scum! Scum in a lion costume!)
+					Boss: Then it's simple: We bring better food for the horse and then we can take as many carrots as we like. You can't argue against that logic!
+					Lion: I can't argue against that logic.
+					Boss: Ha, we'll be back in a hot minute with the greatest horse feed known to man!
+					Lion: Ha, you'll be back in a hot minute with the greatest horse feed known to man.
+					Toto: (Is she using Jedi mind tricks now?)
+					globalvar: carrotquest
+					
+				[Lion_Heartradish]
+					Lion: It's my first day here, but I can say with great confidence that something like this does absolutely not exist anywhere on this farm. Probably not even anywhere in the world.
+					Boss: Hmm... If even Leon hasn't seen any we might be in trouble...
+					Toto: (Is she really thinking that highly of his radish knowledge?!)
+					
+				[Lion_Alien]
+					Boss: Hey! Creep!
+					Toto: (She's opening way too harsh! What are you doing Boss?!)
+					Lion: Yo. What's up?
+					Toto: (He ignored it! What sort of life have you lived, Leon?!)
+					Toto: Eh, *Ahem*
+					Toto: A bit of an oddball question, but do you also have an alien costume?
+					item: alien
+					Lion: Of course.
+					Boss: Why are you wasting our investigation time with trivial questions, Toto?
+					Toto: (Since when are you two such a team?!)
+					Lion: I didn't know if I might be working on a field, so I also brought an alien costume.
+					item: none
+					Toto: W- wouldn't you bring a scarecrow costume for that?
+					Lion: No, what kind of anachronistic idiot would wear a scarecrow costume for field work in 2022? 
+					Boss: *nods heavily*
+					Lion: The genius me is more chic than that.
+					Boss: *shakes head heavily*
+					Toto: Could we borrow your costume for a while?
+					Lion: Of course. You two are the best friends I've ever had.
+					Toto: Th- thanks.
+					Toto: (What sort of life have you lived, Leon?!)
+					Boss: *still shaking her head heavily*
+					globalvar: alien
+					
+				[Lion_Horsefeed]
+					Lion: This glowing holiness, is this what I think it is?!
+					Boss: That's right, it's the horse cake of prophecy.
+					Lion: I feel overwhelmed by its beauty. Please, take whichever carrots you need. You can also take the lunch I brought, I feel I can die happy after witnessing the beauty of this cake.
+					Toto: We couldn'- SHE TOOK IT! THE BOSS TOOK THE LUNCH!
+					item: carrot
+					Boss: *while eating* Well, that takes care of the carrot pro- huh?
+					Toto: What? Did he actually pack lion food as lunch?
+					Boss: He did, but that's not what I ellipsed my sentence for: One of these carrots is fake. Made out of plastic. A fraud.
+					Boss: As an investigator I can't ignore it. I will untwist the secret of this- Oh, you twist it and the top comes off, that's convenient.
+					item: key
+					Boss: ... A key.
+					Toto: Maybe you should put that back, I mean we can't just be taking random keys with us, right Leon?
+					item: none
+					Lion: Uhhhhhhh.
+					Toto: He's passed out from hunger.
+					Boss: *kicks Lion* No sleeping during the interrogation!
+					Lion: Ohhh myyy~~~
+					Toto: (A- a special awakening?!)
+					Lion: I don't know what this is, like I said it's my first day, I assume they only tell you about the plastic key carrots after you made it out of probation.
+					Boss: Hmm, I see. *kicks Lion back to sleep*
+					Boss: This case is more convoluted than I had anticipated. Let's keep moving forward, Toto.
+					globalvar: key
+
+[Shed_Opening]
+	Boss: I think I know what this is.
+	Toto: A storage shed locked with both a key and a keycard lock?
+	Boss: It's the heart-radish storage. 
+	Toto: NO WAY! It's where dangerous equipment gets stored, we should just avoid that place.
+	Boss: Toto... Toto... Toto... I can tell you've never played Ph*enix Wright or Hotel D*sk. This just SCREAMS evidence heaven.
+	Boss: I mean "shed full of equipment"? OF COURSE I need to get into this now.
+	Toto: ... Uhhh.
+
+[Finale]
+	Boss: There we go! Unlocked~ and unlocked~!
+	Toto: I don't think this is a good idea, I really don't want to break into my grandpa's shed.
+	Boss: Heart-radish! Heart-radish! Heart-radish!
+	Toto: Please listen to me! This is a bad idea!
+	Boss: Relax, you already got shot at earlier, how much worse can this realistically b-
+	goto: lab
+	
+[Lab_opening]
+	Toto: ...
+	Toto: .........
+	Toto: .................
+	Boss: ...
+	Boss: .........
+	Boss: .................
+	Boss: *bleurgh*
+	Boss: *bleurgh* *hack wheeze* *bleuuurgh*
+	Boss: Ok I think I caught myse- *bleuuuuuurgh*
+	Boss: *bleuuuuuuuuurgh* I- *bleurgh*
+	Boss: This isn't really stopping- *bleurgh* You'll need to investigate this on your own- *bleuuurgh*
+	Toto: ... M- me?
+	forcelook: now
+	
+[Investigate_lab]
+	Toto: It's some sort of lab, I can't believe this was in that locked shed the entire time. And that in the middle is...
+	Boss: *bleeeeuuuurggghhhhh*
+	
+[Investigate_corpse]
+	Toto: It's a dead man in some sort of tin apparatus. His heart has been... surgically removed.
+	Boss: What is this even doing here? What is this?!
+	Boss: "Organ Harvestinator 3000?" They made 2999 versions before this one?! This is sick! *small bleurgh*
+	Toto: ... Grandpa always said things like "Take care of your organs" "I love your organs" and "Your organs would fetch a great price at the black market", but I never thought he would...
+	Toto: We need to call the police and tell them about grandpa.
+	Boss: Are you- are you sure it's your grandpa? It could be one of the workers.
+	Toto: ... Either way, we need to call the police!
+	Giovanni: What-e is-e happening-e he- MAMMA MIA!
+	Toto: Grandpa, we know what you did! About how you harvested organs with the Organ Harvestinator 2000! I can't believe what you've done!
+	Giovanni: I have-e no idea, what is happening-e here! Who is that dead-e man on the table!
+	soundeffect: 4
+	Lion: Hey, I heard some yelling and thought you could need a brave lio- *girlish scream and passing out*
+	Scarecrow: Hey, I heard some yelling, so I ripped myself off that cross and thought you could need a smart scarec- Oh mama sita.
+	Boss: How unsightly of me to puke all over the place when there is a mystery to be solved. Facing pressure is what makes a great detective a great detective!
+	Scarecrow: S- So hard-boiled!
+	Boss: We have all the clues we need to figure out who the organ harvester really is. 
+	Boss: Toto. Please announce the identity of the serial killer.
+	Toto: WHAT? ME?
+	Toto: (Keep it cool Toto, just go through everything you know, everything you experienced and you will figure out the answer...)
+	question: 3
+	Toto: The killer is- WAIT, WHY AM I A SELECTABLE OPTION?!	
+	Investigate_corpse_Giovanni: Giovanni
+	Investigate_corpse_Scarecrow: Scarecrow
+	Investigate_corpse_Toto: Toto
+
+[Investigate_corpse_question]
+	Toto: (Keep it cool Toto, just go through everything you know, everything you experienced and you will figure out the answer...)
+	question: 3
+	Toto: The killer is- WAIT, WHY AM I A SELECTABLE OPTION?!	
+	Investigate_corpse_Giovanni: Giovanni
+	Investigate_corpse_Scarecrow: Scarecrow
+	Investigate_corpse_Toto: Toto
+	
+[Investigate_corpse_Giovanni]
+	Toto: Grandpa! You killed those people! It only makes sense, you're the one with the fascination for organs!
+	Giovanni: Bambino... it's-e true, organs are very coolito, but they are best when they are inside-e people! I would never murder anybody! No Italian would!
+	Scarecrow: He makes a good point there.
+	Boss: It's true. Giovanni owns the property and the shed, which makes him a prime subject. But he is not the killer. The true killer has already given away who they are. Think again, Toto.
+	talk: Investigate_corpse_question
+
+[Investigate_corpse_Scarecrow]
+	Toto: You, mysterious scarecrow man! You have a gun and you seem to be fine with shooting at people!
+	Scarecrow: Woah there kemosabe, I only shoot at aliens. I wouldn't hurt an earthling fly. One planet, one destiny.
+	Toto: And nobody knows why you're in that costume anyway!
+	Scarecrow: Alright, I'll come clean, as a show of good faith between men. The reason I'm in that costume is because-
+	Boss: Unimportant, because he is not the killer either. True, he has a weapon and is a sketchy character-
+	Scarecrow: Hey!
+	Boss: But the true killer has already given away who they are. Think again, Toto.
+	talk: Investigate_corpse_question
+	
+[Investigate_corpse_Toto]
+	Toto: Ok, I picked the joke option, are you satisfied now?
+	Toto: Can we get this over with so the unassuming lion guy who's passed out on the floor can rise up as the true villain character and hold whatever monologue he has prepared?
+	Boss: ...
+	Boss: The first hint is the location.
+	Boss: The key card was in the tractor that you take care of during summer break. The key was among the animal feed that you are in charge of, the lion costume creep is just a temporary replacement.
+	Lion: Is it too late to veto the c word now or has it entered acceptable vocabulary to describe me?
+	Toto: You gotta be kidding me, we find keys to a storage shed in two accessible locations and you accuse your childhood friend to be a serial killer? There's a limit even for you!
+	Boss: The second was the behaviour.
+	Boss: You pretended to be unaware of the disappearances going on in this area. You repeatedly tried to take the keys we found. You tried to keep us from entering the shed with an uncharacteristic amount of aggression.
+	Toto: SO BECAUSE I DON'T WANT TO BREAK INTO MY GRANDPA'S SHED AND NOW I SHOULD BE ON DEATH ROW?! DO YOU EVEN HEAR YOURSELF? 
+	Toto: AND WHY SHOULD I TAKE YOUR DISAPPEARANCE CHUUNI BABBLE AT FACE VALUE WHEN ALL YOU EVER DO IS SPOUT OFF NONSENSE?! GUESS STRAWBERRY MILK IS MADE OUT OF COW BLOOD NOW!
+	Narrator: We interrupt this programming to remind you to not fall for the big strawberry milk lobby's propaganda. Save cow lives. Today.
+	Toto: SHUT UP, YOU DUMB NARRATOR. SHUT UP, SHUT UP, SHUT UP.
+	Toto: JUST BECAUSE EVERYONE EXCEPT ME IS CRAZY IN THIS WORLD I'M SUPPOSED TO BE THE BUTT OF THE JOKE AT THE END?! GIVE ME A BREAK!
+	Scarecrow: ...
+	Giovanni: ... He sure has the Toto family passion.
+	Boss: The final clue. Toto... How did you know it was the Organ Harvestinator 2000 and not the 3000 like I said.
+	Toto: ... What?
+	Boss: I was standing in front of the only plaque on the machine. You couldn't have seen if from where you were standing, and I covered it in tactical puke afterwards.
+	Lion: (Tactical puke?)
+	Scarecrow: (Let the little missy have her moment, bro.)
+	Toto: ...
+	Toto: ...
+	Toto: ...
+	music: toto
+	Toto: ... Heh. How could I have anticipated the tactical puke.
+	Boss: Oldest trick in the book.
+	Toto: Fine. You... "win" the battle. I've been using this shed for a small organ harvesting side hustle this summer break.
+	Giovanni: My own-e grandson... A organ harvesterioni...
+	Lion: My best friend... a monster... an animal...
+	Scarecrow: And I thought aliens could be our friends...
+	Boss: I didn't want to believe it either... but a true detective must accept the facts, no matter how grim.
+	Toto: ... You certainly don't look the grim part, throwing out victory signs and taking selfies to post on instagram with hashtag detective_victory.
+	Boss: ... This is this and that is that.
+	Toto: Well, nothing's gonna happen to me anyway, you ascended extras. I'm the main character and the main character always wins.
+	Toto: I'll just bide my time until the game interface comes back and then I will turn this around in a jiffy.
+	Narrator: However, the interface never came back.
+	Toto: Wait, an ending narration?! No! This wasn't part of the plan! Stop! Stop this game! There must be a bug in here somewhere.
+	Narrator: Toto was sent to prison, where he suffered tremendous damage.
+	Toto: NO! NOT THE TREMENDOUS DAMAGE!
+	Narrator: He was always picked last for the prison volleyball team-
+	Lion: *closes eyes in pain*
+	Narrator: His spaghetti was always broken in half on spaghetti day-
+	Giovanni: Dio have mercy on this boy's soul.
+	Narrator: And he was abducted and probed by aliens.
+	Toto: NOW THAT'S JUST BEING NASTY!
+	Boss: As for the boss, she became an international star detective, super model and pop sensation all in one.
+	Narrator: What?
+	Boss: What?
+	Narrator: Anyway, that concludes the great detective club's incident of finding carrots, grain and a heart-rad-
+	Giovanni: Ah, momento the heart-radish, I found one behind a burnt shelf in my kitchen, here-a you go bambina.
+	music: boss
+	Boss: INVESTIGATION CONCLUDED! FULL HAPPY END!
+	Boss: Hahahahaha!
+	Giovanni: Hohohohoho!
+	Scarecrow: Hehehehehe!
+	Lion: Hihihihihi!
+	Tin man: Hahahaha!
+	music: none
+	Everyone: AAAAAAAAAAAAAAAAAAAAAA!
+	finale: now
+		

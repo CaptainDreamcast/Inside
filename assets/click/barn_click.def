@@ -1,0 +1,36 @@
+[Click]
+pos = 0, 0
+size = 320,240
+talk = "Barn_Barn"
+
+
+[Click]
+pos = 171,101
+size = 76,52
+talk = "Barn_Cows"
+
+[Click]
+pos = 171,101
+size = 76,52
+talk = "Barn_Taking_milk"
+carrotquest = 1
+barn_milk = 0
+
+[Click]
+pos = 0, 86
+size = 65,81
+talk = "Barn_Horses"
+
+
+[Click]
+pos = 80,92
+size = 37,21
+talk = "Barn_Chicken"
+
+
+[Click]
+pos = 80,92
+size = 37,21
+talk = "Barn_Taking_egg"
+carrotquest = 1
+barn_eggs = 0

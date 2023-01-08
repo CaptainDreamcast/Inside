@@ -1,0 +1,38 @@
+
+
+[Click]
+pos = 0,0
+size = 320,240
+talk = "Field_Sky"
+
+[Click]
+pos = 0,112
+size = 320,128
+talk = "Field_Grain"
+
+[Click]
+pos = 31,105
+size = 98,64
+talk = "Field_Grain"
+
+
+
+
+[Click]
+pos = 0,112
+size = 320,128
+talk = "Field_grain_after"
+Field_alien_getting = 1
+
+[Click]
+pos = 31,105
+size = 98,64
+talk = "Field_tractor_after"
+Field_alien_getting = 1
+
+[Click]
+pos = 0,0
+size = 320,240
+talk = "Field_alien_getting"
+alien = 1
+Field_alien_getting = 0
